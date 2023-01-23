@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- ⚡ Fun fact: Dream is a conversation between you and your subconscious mind.
+### Bringing software marvels to life *ad-infinitum*💫
+
 <!--
 **0x01-infinity/0x01-infinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- ⚡ Fun fact:
 -->
