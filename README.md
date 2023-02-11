@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Bringing software marvels to life *ad-infinitum*💫
+# *ad-infinitum*💫
 
 <!--
 **0x01-infinity/0x01-infinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
